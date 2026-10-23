@@ -1,0 +1,94 @@
+{
+  "mcpServers": {
+    "research-valuation": {
+      "command": "/Users/satish.terala/Work/adia/self-learning-agent/.venv/bin/python",
+      "args": [
+        "/Users/satish.terala/Work/adia/self-learning-agent/scripts/cursor_mcp.py",
+        "--profile",
+        "fevm",
+        "--url",
+        "https://research-memory-poc-7474653807068368.aws.databricksapps.com",
+        "--agent",
+        "valuation"
+      ],
+      "env": {
+        "DATABRICKS_AUTH_STORAGE": "plaintext"
+      }
+    },
+    "research-research": {
+      "command": "/Users/satish.terala/Work/adia/self-learning-agent/.venv/bin/python",
+      "args": [
+        "/Users/satish.terala/Work/adia/self-learning-agent/scripts/cursor_mcp.py",
+        "--profile",
+        "fevm",
+        "--url",
+        "https://research-memory-poc-7474653807068368.aws.databricksapps.com",
+        "--agent",
+        "research"
+      ],
+      "env": {
+        "DATABRICKS_AUTH_STORAGE": "plaintext"
+      }
+    },
+    "research-portfolio": {
+      "command": "/Users/satish.terala/Work/adia/self-learning-agent/.venv/bin/python",
+      "args": [
+        "/Users/satish.terala/Work/adia/self-learning-agent/scripts/cursor_mcp.py",
+        "--profile",
+        "fevm",
+        "--url",
+        "https://research-memory-poc-7474653807068368.aws.databricksapps.com",
+        "--agent",
+        "portfolio"
+      ],
+      "env": {
+        "DATABRICKS_AUTH_STORAGE": "plaintext"
+      }
+    },
+    "research-platform": {
+      "command": "/Users/satish.terala/Work/adia/self-learning-agent/.venv/bin/python",
+      "args": [
+        "/Users/satish.terala/Work/adia/self-learning-agent/scripts/cursor_mcp.py",
+        "--profile",
+        "fevm",
+        "--url",
+        "https://research-memory-poc-7474653807068368.aws.databricksapps.com",
+        "--agent",
+        "platform"
+      ],
+      "env": {
+        "DATABRICKS_AUTH_STORAGE": "plaintext"
+      }
+    },
+    "research-supervisor": {
+      "command": "/Users/satish.terala/Work/adia/self-learning-agent/.venv/bin/python",
+      "args": [
+        "/Users/satish.terala/Work/adia/self-learning-agent/scripts/cursor_mcp.py",
+        "--profile",
+        "fevm",
+        "--url",
+        "https://research-memory-poc-7474653807068368.aws.databricksapps.com",
+        "--agent",
+        "supervisor"
+      ],
+      "env": {
+        "DATABRICKS_AUTH_STORAGE": "plaintext"
+      }
+    },
+    "research-compliance-demo": {
+      "command": "/Users/satish.terala/Work/adia/self-learning-agent/.venv/bin/python",
+      "args": [
+        "/Users/satish.terala/Work/adia/self-learning-agent/scripts/cursor_mcp.py",
+        "--profile",
+        "fevm",
+        "--url",
+        "https://research-memory-poc-7474653807068368.aws.databricksapps.com",
+        "--agent",
+        "compliance-demo"
+      ],
+      "env": {
+        "DATABRICKS_AUTH_STORAGE": "plaintext"
+      }
+    }
+  }
+}

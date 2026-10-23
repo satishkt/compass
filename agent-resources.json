@@ -1,0 +1,32 @@
+{
+  "valuation": {
+    "memory": "research-poc-v2-valuation",
+    "sessions": "research-poc-v2-valuation",
+    "pipeline": "3fc24e6a-6bd3-4b88-a8a6-2eda23fe850a",
+    "job_id": 184200332734023
+  },
+  "research": {
+    "memory": "research-poc-v2-research",
+    "sessions": "research-poc-v2-research",
+    "pipeline": "bf2e2cf0-4169-45f1-814b-df7450deda03",
+    "job_id": 37609298510338
+  },
+  "portfolio": {
+    "memory": "research-poc-v2-portfolio",
+    "sessions": "research-poc-v2-portfolio",
+    "pipeline": "5b675847-46c2-44d1-82ca-623f9fc1133c",
+    "job_id": 728660596104931
+  },
+  "platform": {
+    "memory": "research-poc-v2-platform",
+    "sessions": "research-poc-v2-platform",
+    "pipeline": "f8b60089-dead-4e5b-8dfb-004a92997fa8",
+    "job_id": 275385480844862
+  },
+  "supervisor": {
+    "memory": "research-poc-v2-supervisor",
+    "sessions": "research-poc-v2-supervisor",
+    "pipeline": "a91e5ffc-4496-4c1b-98a3-e5d53dcfa06f",
+    "job_id": 405363141407656
+  }
+}

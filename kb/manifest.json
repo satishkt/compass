@@ -1,0 +1,215 @@
+{
+  "documents": [
+    {
+      "file": "project-agentic-valuation-monitoring-backlog.md",
+      "source": "docs/agentic-valuation-monitoring-backlog.md",
+      "kind": "project_document",
+      "sha256": "48a9b084e0eb7f3173570a43167abe545458585af2b5f562228d50ee004b5089"
+    },
+    {
+      "file": "project-component-valuation-foundation.md",
+      "source": "docs/component-valuation-foundation.md",
+      "kind": "project_document",
+      "sha256": "c29ddc913f87f4f49bf9cc41daf00f3e27e56d123559d548a367a8fce6121663"
+    },
+    {
+      "file": "project-concession-strategy-pilot.md",
+      "source": "docs/concession-strategy-pilot.md",
+      "kind": "project_document",
+      "sha256": "09ec8f1940d9d0f6687bd850bdd4938f83da6c25333cf792a5ef2f06837cb881"
+    },
+    {
+      "file": "project-dossier-ux-backlog.md",
+      "source": "docs/dossier-ux-backlog.md",
+      "kind": "project_document",
+      "sha256": "d00beb13ff4e9ea12530f3a75569dbedcc291ec79049e8853345f6c7e596e1dd"
+    },
+    {
+      "file": "project-filing-analyst-spec.md",
+      "source": "docs/filing-analyst-spec.md",
+      "kind": "project_document",
+      "sha256": "8b506820f400257b7cfca1287a1ae0e203ceea325577590bbd0da962e56322b7"
+    },
+    {
+      "file": "project-fiscal-ai-endpoint-backlog.md",
+      "source": "docs/fiscal-ai-endpoint-backlog.md",
+      "kind": "project_document",
+      "sha256": "1870f54d5b0618d39dfa2a59430931353d9557a9f55f68aae77a79a96e1ca20f"
+    },
+    {
+      "file": "project-on-demand-valuation.md",
+      "source": "docs/on-demand-valuation.md",
+      "kind": "project_document",
+      "sha256": "27308cee19a6843c5185caf724c0b3d83f35ffea8333b53e4386bf6d45675f3f"
+    },
+    {
+      "file": "project-phase1-build-plan.md",
+      "source": "docs/phase1-build-plan.md",
+      "kind": "project_document",
+      "sha256": "d1343016bb95b10c601571c7e27de77f7a08d8be3b3f1b21614d45015c1b4e74"
+    },
+    {
+      "file": "project-portfolio-pricing.md",
+      "source": "docs/portfolio-pricing.md",
+      "kind": "project_document",
+      "sha256": "4948d0d8a02cc1c70cc437e4a54dd5d6b7a9860da67deee382634826d927778a"
+    },
+    {
+      "file": "project-reading-room-spec.md",
+      "source": "docs/reading-room-spec.md",
+      "kind": "project_document",
+      "sha256": "f84b803c9a17e3b3eb3715f961e68cf3d6ef2c738955c7da5816119b81dde74a"
+    },
+    {
+      "file": "project-research-feature-backlog.md",
+      "source": "docs/research-feature-backlog.md",
+      "kind": "project_document",
+      "sha256": "ab181ecc9d543ec347794c1bf9bd35dbf837e6287a65946f096ba8402cdf1b50"
+    },
+    {
+      "file": "project-research-journey-design.md",
+      "source": "docs/research-journey-design.md",
+      "kind": "project_document",
+      "sha256": "d36ac8d910f650582853fda74600259f527248ad86178d75761be34b1b2340ef"
+    },
+    {
+      "file": "project-system-reference.md",
+      "source": "docs/system-reference.md",
+      "kind": "project_document",
+      "sha256": "a1ff9ee23158b5aa2bb10e2e777b047465d2d8620a40ed669da0de3e20a3e892"
+    },
+    {
+      "file": "project-unified-platform-spec.md",
+      "source": "docs/unified-platform-spec.md",
+      "kind": "project_document",
+      "sha256": "cab3762c281508846dcb123571d16ec67e20267657f32a4c8688e856425c171d"
+    },
+    {
+      "file": "project-valuation-agent-runtime.md",
+      "source": "docs/valuation-agent-runtime.md",
+      "kind": "project_document",
+      "sha256": "98720396a26279d9ec900453d6aafa082c64323567ce005b11f79b43e2a6950a"
+    },
+    {
+      "file": "project-valuation-architecture.md",
+      "source": "docs/valuation-architecture.md",
+      "kind": "project_document",
+      "sha256": "fda30c17ac308722dec84f07c194e1470c0f72737dc7305ab0272b7a90ee6a64"
+    },
+    {
+      "file": "project-valuation-basis.md",
+      "source": "docs/valuation-basis.md",
+      "kind": "project_document",
+      "sha256": "efeaaf06a54bf3e150174010728a362fe249fbc88f9f24e43ce1fa4f659b3b74"
+    },
+    {
+      "file": "project-valuation-cleanup.md",
+      "source": "docs/valuation-cleanup.md",
+      "kind": "project_document",
+      "sha256": "2a17a85ca017afbfc4f6239fec2b751343ef85097a0b0a34c4665f4b59919f82"
+    },
+    {
+      "file": "project-valuation-deep-dive-spec.md",
+      "source": "docs/valuation-deep-dive-spec.md",
+      "kind": "project_document",
+      "sha256": "b0cc82fd2872426023c5968e62b15472daec05b5657191604b0145091e967e57"
+    },
+    {
+      "file": "project-valuation-evidence-review.md",
+      "source": "docs/valuation-evidence-review.md",
+      "kind": "project_document",
+      "sha256": "bd619ecb8723c6d7e59e5a8d38e381aed99c21a42c8efe0234118186666ffdaa"
+    },
+    {
+      "file": "project-valuation-guided-evidence-capture.md",
+      "source": "docs/valuation-guided-evidence-capture.md",
+      "kind": "project_document",
+      "sha256": "f89dec0ead746f800059ab7502dd0537b8ff3b0d404596a71e35d3597c7174b4"
+    },
+    {
+      "file": "project-valuation-parameter-proposals.md",
+      "source": "docs/valuation-parameter-proposals.md",
+      "kind": "project_document",
+      "sha256": "ca709ba205c6d2d2c4a1aa5c279d614edadb03731b9b243a0e967382e26180d2"
+    },
+    {
+      "file": "project-valuation-paused-checkpoint.md",
+      "source": "docs/valuation-paused-checkpoint.md",
+      "kind": "project_document",
+      "sha256": "669cd9c1d2e72bce8c6bfdafaa38ea2fbd74776f927d639c65d5c1a2056832ad"
+    },
+    {
+      "file": "project-valuation-release-2026-10-12.md",
+      "source": "docs/valuation-release-2026-10-12.md",
+      "kind": "project_document",
+      "sha256": "c8683e7fde2c0a7b93c40f7acfd07239993671ecb03a94c2e6b4f6cd84b0dc6a"
+    },
+    {
+      "file": "project-valuation-research-rounds.md",
+      "source": "docs/valuation-research-rounds.md",
+      "kind": "project_document",
+      "sha256": "5e4fa6b18649e0e3383209143a2b241cdf8bc281e4fce54b86e099e02f7bdd93"
+    },
+    {
+      "file": "project-valuation-research-workspace.md",
+      "source": "docs/valuation-research-workspace.md",
+      "kind": "project_document",
+      "sha256": "8ca4ee75f357b9971f3567cbf909dfa1e4d2a193db7ab9f5d10388c326471ee2"
+    },
+    {
+      "file": "project-valuation-search-dossier.md",
+      "source": "docs/valuation-search-dossier.md",
+      "kind": "project_document",
+      "sha256": "b47a2dbd85e251d0a9b58238785318073efb192b1b102b30216f43d1c4fce648"
+    },
+    {
+      "file": "project-valuation-targeted-research.md",
+      "source": "docs/valuation-targeted-research.md",
+      "kind": "project_document",
+      "sha256": "7300591f3d790e79a652a4b9c2828fbbae1eb8f406d7586820f140c251777352"
+    },
+    {
+      "file": "project-valuation-underwriting.md",
+      "source": "docs/valuation-underwriting.md",
+      "kind": "project_document",
+      "sha256": "c7a818d0c2725da9f7839f4223ebfa3be104839ba1c65058c787d351beb95aed"
+    },
+    {
+      "file": "conversation-1ab906a4-ab80-4546-a039-62dc9bf200be.md",
+      "source": "Claude project session 1ab906a4-ab80-4546-a039-62dc9bf200be",
+      "kind": "historical_user_messages",
+      "messages": 4,
+      "sha256": "cc2045cdaec217cded838320eedf80452d0dc057f486c472364f4ffb6467945b"
+    },
+    {
+      "file": "conversation-a43c5af2-1741-4cd5-883d-4886b56d9fa7.md",
+      "source": "Claude project session a43c5af2-1741-4cd5-883d-4886b56d9fa7",
+      "kind": "historical_user_messages",
+      "messages": 1,
+      "sha256": "ce3641dd5b0ee3d75694b9aa171ce08e8b1f235738367e13fad6c4db5dfc99c1"
+    },
+    {
+      "file": "conversation-ca1523ed-c5a7-4866-9932-4346929b0a97.md",
+      "source": "Claude project session ca1523ed-c5a7-4866-9932-4346929b0a97",
+      "kind": "historical_user_messages",
+      "messages": 2,
+      "sha256": "2fbbb46a9572e8c290a54bdbd2f26734fd6b35f0debb6d560dcd43e420e16ef9"
+    },
+    {
+      "file": "conversation-da8ecad9-ca25-46d6-a7b7-e1cd4d3f8379.md",
+      "source": "Claude project session da8ecad9-ca25-46d6-a7b7-e1cd4d3f8379",
+      "kind": "historical_user_messages",
+      "messages": 4,
+      "sha256": "c808b4d59b77072adae275666304de9bcdd2dd3b6a5c1bc8347b93ea4cf55e1a"
+    },
+    {
+      "file": "conversation-f6ee2f70-c940-4a99-b5b5-60bd899dbfe0.md",
+      "source": "Claude project session f6ee2f70-c940-4a99-b5b5-60bd899dbfe0",
+      "kind": "historical_user_messages",
+      "messages": 4,
+      "sha256": "30387320fdd6133b3b96c891f23c7ff03090cfb3815321d5bbab08336e32bd01"
+    }
+  ],
+  "historical_user_messages": 15,
+  "note": "No assistant guesses or tool results imported; raw logs stay outside this app."
+}

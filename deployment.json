@@ -1,0 +1,44 @@
+{
+  "app": "research-memory-poc",
+  "url": "https://research-memory-poc-7474653807068368.aws.databricksapps.com",
+  "service_principal": "74f4837a-b401-4ec6-8277-40cb7dcd303c",
+  "experiment_id": "3545964146260332",
+  "workspace_path": "/Workspace/Users/satish.terala@databricks.com/research-memory-poc-src",
+  "catalog": "satish_doc_intelligence_catalog",
+  "warehouse": "f7eaba73b2f9c0dc",
+  "verified_deployment_id": "01f1cea1934e19ee8a9b2abcfe06f91f",
+  "checks": [
+    "17 local tests passed",
+    "Local and deployed supervisor delegation across three domains passed",
+    "Local and deployed browser agent and memory controls passed",
+    "Domain and supervisor native consolidation generated candidates",
+    "Synthetic supervisor candidate approved and recalled in a fresh session",
+    "MLflow full trace artifacts remain unverified",
+    "App service principal can start native pipeline jobs; duplicate approval retries are safe",
+    "Local and deployed UI agent creation, two baseline memories, reload persistence, direct recall and supervisor delegation passed",
+    "22 local tests passed; daily serverless run 295723551219159 wrote six agent Markdown archives; deployed Daily updates browser view passed",
+    "25 local tests passed; six deployed agent MCP endpoints discovered; live two-turn valuation chat and journal passed; cross-agent scope passed; Cursor stdio connector authenticated with fevm and completed discovery/tool call",
+    "Agent workspace: 25 backend tests pass; local and deployed browser fixture checks pass for contextual agent selection, per-agent drafts/history, delayed response isolation, memory context, dynamic discovery and responsive layout; read-only deployed live registry check passed for all six agents",
+    "Pipeline Compass branding verified in deployed navigation, tagline, footer, dynamic agent browser titles, OpenAPI title and mobile layout",
+    "Databricks reference theme: local agent workspace fixtures pass; live palette, bundled DM Sans, all navigation pages, creation dialog and mobile layout pass; read-only live contexts verified for all six agents",
+    "Knowledge register: 36 local tests pass; local browser check (folder import, chat capture card, self-approval blocked, approval by second owner, shared conversation) passed; deployed Lakebase migrations, shared sessions with titles, register API, memory projection and MCP knowledge tools verified 2026-10-22",
+    "Focus layout (2026-10-23): 36 tests pass; local browser check passed (switcher, record bar, capture \u2192 review \u2192 approval, shared conversation drawer, folder import, mobile); deployed page loads with no console errors, record bar shows the live T-001 TODO",
+    "Import & classify (2026-10-23): 39 tests pass; local browser import of a seed folder and model classification of free-form notes passed; deployed /api/knowledge/parse classified the demo workshop notes into 28 typed items in ~30s",
+    "Import fix (2026-10-23): single-transaction import with duplicate skipping, background memory projection, reused Lakebase credential; 42 tests pass; live re-import of the Research seed returned in 1.0s (was 60s) and skipped all 27 existing items"
+  ],
+  "architecture": "Four domain agents + supervisor; independent native memory, sessions and offline pipelines",
+  "daily_updates": {
+    "job_id": 552665911450232,
+    "verified_run_id": 295723551219159,
+    "volume_root": "/Volumes/satish_doc_intelligence_catalog/agent_memory/daily_updates",
+    "schedule": "00:15 Asia/Dubai daily, previous calendar day"
+  },
+  "mcp": {
+    "base_url": "https://research-memory-poc-7474653807068368.aws.databricksapps.com/mcp/",
+    "transport": "Streamable HTTP",
+    "cursor_config": "/Users/satish.terala/Work/adia/.cursor/mcp.json",
+    "connector": "scripts/cursor_mcp.py",
+    "auth_profile": "fevm"
+  },
+  "display_name": "Pipeline Compass"
+}

@@ -1,0 +1,64 @@
+{
+  "command": [
+    "uvicorn",
+    "app:app",
+    "--host",
+    "0.0.0.0",
+    "--port",
+    "8000"
+  ],
+  "env": [
+    {
+      "name": "POC_CATALOG",
+      "value": "satish_doc_intelligence_catalog"
+    },
+    {
+      "name": "DATABRICKS_WAREHOUSE_ID",
+      "value": "f7eaba73b2f9c0dc"
+    },
+    {
+      "name": "SERVING_ENDPOINT",
+      "value": "system.ai.claude-sonnet-4-6"
+    },
+    {
+      "name": "AI_GATEWAY_URL",
+      "value": "https://7474653807068368.ai-gateway.cloud.databricks.com/mlflow/v1"
+    },
+    {
+      "name": "LAKEBASE_HOST",
+      "value": "ep-young-pond-d80g7f6r.database.us-east-2.cloud.databricks.com"
+    },
+    {
+      "name": "LAKEBASE_DB",
+      "value": "pmt"
+    },
+    {
+      "name": "LAKEBASE_ENDPOINT",
+      "value": "projects/pmt/branches/production/endpoints/primary"
+    },
+    {
+      "name": "LAKEBASE_USER",
+      "value": "74f4837a-b401-4ec6-8277-40cb7dcd303c"
+    },
+    {
+      "name": "MLFLOW_EXPERIMENT_ID",
+      "value": "3545964146260332"
+    },
+    {
+      "name": "PUBLIC_APP_URL",
+      "value": "https://research-memory-poc-7474653807068368.aws.databricksapps.com"
+    },
+    {
+      "name": "MLFLOW_ARTIFACT_UPLOAD_DOWNLOAD_TIMEOUT",
+      "value": "5"
+    },
+    {
+      "name": "MLFLOW_HTTP_REQUEST_MAX_RETRIES",
+      "value": "1"
+    },
+    {
+      "name": "MLFLOW_HTTP_REQUEST_BACKOFF_FACTOR",
+      "value": "1"
+    }
+  ]
+}

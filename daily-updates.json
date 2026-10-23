@@ -1,0 +1,9 @@
+{
+  "job_id": 552665911450232,
+  "volume_root": "/Volumes/satish_doc_intelligence_catalog/agent_memory/daily_updates",
+  "timezone": "Asia/Dubai",
+  "schedule": "Daily at 00:15 Asia/Dubai, for the previous calendar day",
+  "gateway_url": "https://7474653807068368.ai-gateway.cloud.databricks.com/mlflow/v1",
+  "model": "system.ai.claude-sonnet-4-6",
+  "workspace_host": "https://fevm-satish-doc-intelligence.cloud.databricks.com"
+}
